@@ -11,6 +11,8 @@
 		F7A03CC12A03D16A00214D1A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7A03CC02A03D16A00214D1A /* ContentView.swift */; };
 		F7A03CC32A03D16C00214D1A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F7A03CC22A03D16C00214D1A /* Assets.xcassets */; };
 		F7A03CC62A03D16C00214D1A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F7A03CC52A03D16C00214D1A /* Preview Assets.xcassets */; };
+		F7E18E0A2A03D5F700E0A907 /* SnowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7E18E082A03D5F700E0A907 /* SnowView.swift */; };
+		F7E18E0B2A03D5F700E0A907 /* PetalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7E18E092A03D5F700E0A907 /* PetalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		F7A03CC02A03D16A00214D1A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F7A03CC22A03D16C00214D1A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F7A03CC52A03D16C00214D1A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F7E18E082A03D5F700E0A907 /* SnowView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SnowView.swift; sourceTree = "<group>"; };
+		F7E18E092A03D5F700E0A907 /* PetalView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PetalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +56,8 @@
 			isa = PBXGroup;
 			children = (
 				F7A03CBE2A03D16A00214D1A /* BreathingFlowerAnimationApp.swift */,
+				F7E18E092A03D5F700E0A907 /* PetalView.swift */,
+				F7E18E082A03D5F700E0A907 /* SnowView.swift */,
 				F7A03CC02A03D16A00214D1A /* ContentView.swift */,
 				F7A03CC22A03D16C00214D1A /* Assets.xcassets */,
 				F7A03CC42A03D16C00214D1A /* Preview Content */,
@@ -139,6 +145,8 @@
 			files = (
 				F7A03CC12A03D16A00214D1A /* ContentView.swift in Sources */,
 				F7A03CBF2A03D16A00214D1A /* BreathingFlowerAnimationApp.swift in Sources */,
+				F7E18E0A2A03D5F700E0A907 /* SnowView.swift in Sources */,
+				F7E18E0B2A03D5F700E0A907 /* PetalView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
